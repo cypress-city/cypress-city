@@ -19,6 +19,9 @@ html {
   background-color: #0f1c0a;
   margin: 0;
   font-size: 20px;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
 }
 
 body {
