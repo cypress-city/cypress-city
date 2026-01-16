@@ -51,6 +51,11 @@ body {
   font-weight: bold;
 }
 
+#topbar a.youarehere:hover {
+  color: #0F1C0A;
+  background-color: white;
+}
+
 #main {
   border: 3px solid white;
   background-color: #0f1c0a;
