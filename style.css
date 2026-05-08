@@ -26,6 +26,7 @@ html {
 
 body {
   background-image: url("cypresswrap2.png");
+  background-position: center top;
   color: white;
   font-family: "Ubuntu Mono", Courier;
   margin: 0;
